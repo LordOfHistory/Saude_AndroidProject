@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Policlínica Vida com Saúde</string>
+    <string name="app_name_short">Saude</string>
+    <string name="main_img_name">Main menu image</string>
+    <string name="navigation_drawer_open">1</string>
+    <string name="navigation_drawer_close">0</string>
+    <string name="im_client">Sou Cliente</string>
+    <string name="new_client">Novo Cliente</string>
+    <string name="contacts">Contatos</string>
+    <string name="exit">Sair</string>
+    <string name="about">Sobre</string>
+    <string name="phone_placeholder" />
+    <string name="phone">Celular</string>
+    <string name="sms">SMS</string>
+</resources>
